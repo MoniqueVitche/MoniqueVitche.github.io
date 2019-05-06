@@ -1,11 +1,11 @@
 # Site settings
 author: Monique Vitche
-title: 
+title: Coding To Save You
 header-img: img/home-bg.png
 email: mvitche7@gmail.com
 copyright_name: Monique Vitche
 description: > # this means to ignore newlines until "baseurl:"
-  
+  One coder's journey through Flatiron School
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: viawordofmouth
 github_username:  MoniqueVitche
