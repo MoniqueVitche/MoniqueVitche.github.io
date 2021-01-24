@@ -1,20 +1,20 @@
 ---
 layout: post
-title:      "My Journey to Studying Software Development"
-date:       2019-05-06 04:12:47 +0000
+title:      "This Feels Just Like Starting Over..."
+date:       2019-05-06 00:12:47 -0400
 permalink:  my_journey_to_studying_software_development
 ---
 
-I decided to study software development for the following reasons:
+To say that 2020 has been a whirlwind and a half is quite the understatement. Who knew when I decided to enroll in Flatiron's Full Stack Web Development course that we were going to be dealing with a global health crisis and I was going to have to deal with some changes in my personal life as well. I became a caregiver and took on a lot more responsibilities as a result. Unfortunately, that meant that Flatiron had to take a bit of a backseat.
 
-* I am self-taught in HTML, CSS and Python
-* I am looking to improve my skills to expand my hirability and improve my career goals
-* It was something that I was able to fall back on following my initial plan not working out
+But I'm back... and I mean it.
 
-I have always held an interest in coding. I self-taught HTML and CSS when I was in middle school so I could make layouts for my blogs on Xanga and LiveJournal (and, later, MySpace layouts). I never thought that I would be able to make a career out of coding, and instead decided to pursue my love of writing.
+With the support of some of my friends and family, I have the goal of completing the program by the end of May 2021. That means I have to really kick things into high gear.
 
-I majored in political science and journalism while in university, but struggled to find a job in my field upon graduation and graduate school for journalism did not work out (my plan was to attend Columbia and train to become an investigative reporter). I turned back to coding and self-taught Python.
+I can do it though. I have a lot more support this time. What held me back previously was not much in-person support. I learned that it's important and necessary sometimes to ask for help. That it's not a good thing to do everything yourself. It's better to be proud of looking for support when you need it than self-sabotaging. And that can applied to completing Flatiron. 
 
-Still unsure that I could make this into a career, I put it back to the side as I took on a number of odd jobs (mostly in customer service). My partner at the time enrolled in Flatiron School and completed it last year. I saw them work diligently through the course and thought to myself, "Maybe I can do this."
+There's nothing in this world I want more than to complete this program. In fact, it's at the top of my 2021 goals and I see it every single day when I sit at my desk.
 
-With their support, I decided to enroll in the program and give it a whirl. I currently work as an Associate Mental Health Editor for a website, and I hope to combine my interest-turned-passion for coding and love of writing into a career I love.
+Here's to new beginnings...
+
+Let's do this.
