@@ -7,7 +7,7 @@ permalink:  my_journey_to_studying_software_development
 
 **Updated 1/24/21**
 
-To say that 2020 has been a whirlwind and a half is quite the understatement. Who knew when I decided to enroll in Flatiron's Full Stack Web Development course that we were going to be dealing with a global health crisis and I was going to have to deal with some changes in my personal life as well. I became a caregiver and took on a lot more responsibilities as a result. Unfortunately, that meant that Flatiron had to take a bit of a backseat.
+To say that last year was a whirlwind and a half is quite the understatement. Who knew when I decided to enroll in Flatiron's Full Stack Web Development course that we were going to be dealing with a global health crisis and I was going to have to deal with some changes in my personal life as well. I became a caregiver and took on a lot more responsibilities as a result. Unfortunately, that meant that Flatiron had to take a bit of a backseat.
 
 But I'm back... and I mean it.
 
