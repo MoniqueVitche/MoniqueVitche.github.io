@@ -5,7 +5,7 @@ header-img: img/home-bg.png
 email: mvitche7@gmail.com
 copyright_name: Monique Vitche
 description: > # this means to ignore newlines until "baseurl:"
-  My journal from political science and journalism to web development.
+  My journey from political science and journalism to web development.
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: viawordofmouth
 github_username:  MoniqueVitche
